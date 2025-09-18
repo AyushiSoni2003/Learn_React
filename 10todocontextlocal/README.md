@@ -26,3 +26,5 @@ Todos are persisted in **localStorage** so your list survives page refreshes.
 - Vite (or CRA) as build tool
 
 ---
+## Screenshot
+<img width="1896" height="843" alt="Screenshot 2025-09-18 222415" src="https://github.com/user-attachments/assets/71132aef-0aba-42e9-af97-8937320f0f33" />
